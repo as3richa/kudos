@@ -1,6 +1,6 @@
 # Kudos
 An in-browser HTML5 sudoku engine, pre-loaded with puzzles.
-Written by Adam `sigkill` Richardson.
+Written by Adam Richardson.
 
 ## Development
 Kudos is written in vanilla Javascript, utilising HTML5 features.
