@@ -374,7 +374,7 @@ Kudos.prototype.initializeControls = function(container) {
 				small: true,
 				left: false,
 				action: function() {
-					window.open("https://github.com/sigkill-rcode/kudos");
+					window.open("https://github.com/as3richa/kudos");
 				}
 			}
 		]

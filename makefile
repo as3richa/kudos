@@ -6,7 +6,7 @@ SRC = $(shell echo src/*.js) kudos_puzzles.js
 all: kudos.js kudos.min.js
 
 kudos.min.js: kudos.js
-	minify kudos.js
+	npm run minify -- kudos.js -o kudos.min.js
 
 kudos.js: $(SRC)
 	cat $(SRC) > kudos.js
